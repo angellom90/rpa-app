@@ -1,0 +1,32 @@
+{
+  "name": "rpa-feasibility-app",
+  "version": "0.0.1",
+  "description": "A simple application to evaluate RPA processes feasibility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.6",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
+  },
+  "engines": {
+    "node": "6.11.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angellom90/rpa-feasibility-app"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Angello Manrique",
+  "contributors": [
+    "Angello Manrique <angellom90@gmail.com> (http://www.ibmodm.com)"
+  ],
+  "license": "MIT"
+}
